@@ -1,14 +1,3 @@
-#include <stdio.h>
-#include <conio.h>
-#include <iostream>
-using namespace std;
-
-main(){
-    long int No_iden;
-    int Jur,Kel,Pen;
-    char nama[50];
-    float Harga;
-
     cout<<"\n\t=======================================================\n";
     cout<<"\t      SELAMAT DATANG PEMESANAN TIKET KERETA API        \n";
     cout<<"\t    PEMESANAN KHUSUS PEMBERANGKATAN DARI PURWOKERTO    \n";
